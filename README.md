@@ -1,2 +1,2 @@
-# netology-react-composition1
+# react-composition1
 Cards
